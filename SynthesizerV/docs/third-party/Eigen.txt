@@ -1,0 +1,1 @@
+Synthesizer V uses Eigen. Eigen (http://eigen.tuxfamily.org) is licensed under the Mozilla Public License Version 2.0. To view a copy of this license, visit https://www.mozilla.org/en-US/MPL/2.0/.
